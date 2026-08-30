@@ -1,6 +1,6 @@
 /*
 QUESTION : What are the top skills based on salary ?
-- Look at the average salary associated with each skill for Data Analyst positions
+- Look at the average salary associated with each skill for Data Analyst positions in New York City
 - Focuses on the roles with specified salaries, regardless of location
 - Why ? It reveals how different skills impact salary level for Data Analyst and
     helps identify the most financially rewarding skills to acquire or improve

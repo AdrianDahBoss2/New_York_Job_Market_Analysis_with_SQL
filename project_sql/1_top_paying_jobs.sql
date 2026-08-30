@@ -1,6 +1,6 @@
 /*
 QUESTION : What are the top-paying data analyst jobs ?
-- Identify the top 10 highest-paying Data Analyst roles that are available in New York City
+- Identify the top ten highest-paying Data Analyst roles in New York City
 - Focuses on job postings with specified salaries (removes nulls)
 - Why ? Highlight the top-paying opportunities for Data Analysts, offering insights into employer preferences in NYC
 */

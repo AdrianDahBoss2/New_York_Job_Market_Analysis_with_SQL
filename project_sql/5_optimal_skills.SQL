@@ -1,6 +1,6 @@
 /*
 QUESTION : What are the most optimal skills to learn (AKA it's in high demand and a high-paying skill)?
-- Identify skills in high demand and associated with high average salaries for Data Analyst roles
+- Identify skills in high demand and associated with high average salaries for Data Analyst roles in New York City
 - Concentrates positions in New York City with specified salaries
 - Why ? Targets skills that offer job security (high demand) and financial benefits (high salaries),
     offering strategic insights for career developments in data analysis
