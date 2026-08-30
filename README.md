@@ -173,7 +173,7 @@ ORDER BY
 Here's the breakdown of the top paying skills in New York City from data analyst listings :
 - Niche database software like **Neo4j**, **Elasticsearch**, and **Cassandra** yield the highest salaries
 - **Hybid roles** involving data analysis and either the **cloud**, **web frameworks**, or **programming** appear towards the middle
-- The most in demand skills like **SQL**, **Excel**, and **Python** do not appear in the top 15 paying skills
+- The most in demand skills like **SQL**, **Excel**, and **Python** do not appear in the top fifthteen paying skills
 
 | Skills | Average Salary ($) |
 | :--- | :--- |
