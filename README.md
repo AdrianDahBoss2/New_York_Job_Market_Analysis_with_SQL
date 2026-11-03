@@ -21,7 +21,7 @@ For my analysis into the New York, data analyst job market, I used the following
 
 - **SQL** : The essential programming language for querying large databases
 - **PostgreSQL** : My chosen database management system
-- **VS Code** : The golden standard and an excellent choice for easily connecting to databases and executing SQL queries
+- **VS Code** : My preferred editor for easily connecting to databases and executing SQL queries
 - **Git & GitHub** : The best choice for both version control and sharing my project
 
 # The Analysis
